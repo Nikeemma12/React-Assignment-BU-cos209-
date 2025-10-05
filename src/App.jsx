@@ -6,7 +6,7 @@ import { Banner } from "./Component/Banner";
 export const App = () => {
   return (
     <>
-      <h1>Hello world</h1>
+      <h1>React App</h1>
       <Banner />
       <AboutUs />
       <Services />
